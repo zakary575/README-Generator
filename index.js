@@ -29,8 +29,20 @@ inquirer.prompt([
     message: "List your collaborators, if any",
   },
   {
-    type: "input",
+    type: "list",
     name: "License",
     message: "What licenses did you use?",
+    choices: ['MIT','ISC','Apache 2.0','BSD','Open Software','None' ]
+  },
+  {
+    type: "input",
+    name: "github",
+    message: "What is your github username?",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "What is your email?",
   },
 ]);
+
