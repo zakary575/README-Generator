@@ -25,7 +25,7 @@ const generate = ({
         
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributing](#contributing)
 - [License](#license)
     
 ## Installation
