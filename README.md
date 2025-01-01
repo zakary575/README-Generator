@@ -1,11 +1,11 @@
-
+Readme Generator
 
   ![License](https://img.shields.io/badge/-MIT-blue.svg)
 
 
 ## Description
     
-    
+    A project that useing the inquirer npm package to prompt the user will then generate a professional readme
 
 ## Table of Contents (Optional)
         
@@ -16,27 +16,19 @@
     
 ## Installation
     
-        
+    To install this project you will need to run npm install on the folder and it will install all of the necessary dependencies.    
 
 ## Usage
     
-    
-    
-## Contributing
-    
-    
+    run node index.js in the terminal and then answer the questions that are prompted.
     
 ## License
     
     MIT    
 
-## Tests
-
-    
-
 ## Questions
 
-    https://github.com/
+    https://github.com/Zakary575
 
-    If you have any additional questions please contact me at 
+    If you have any additional questions please contact me at Zakary.johnson575#gmail.com
     
