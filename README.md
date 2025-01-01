@@ -5,7 +5,7 @@ Readme Generator
 
 ## Description
     
-    A project that useing the inquirer npm package to prompt the user will then generate a professional readme
+    A project that useing the inquirer npm package to prompt the user will then generate a professional readme (I made this readme with it!)
 
 ## Table of Contents (Optional)
         
